@@ -1,3 +1,3 @@
 # Animal-React-App
-This is my first Git Repository
+This is my first Git Repository.
 Author - Ali Haider
